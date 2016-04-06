@@ -1,0 +1,3 @@
+# typescript base frontend
+
+A barebones project for frontend projects using TypeScript, VS Code, gulp...
